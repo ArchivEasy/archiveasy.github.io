@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archiveasy.com/sitemap.xml
